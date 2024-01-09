@@ -1,26 +1,26 @@
-#README for GFD Turnout Analysis Notebook
-
-Overview
+# README for GFD Turnout Analysis Notebook
+## Overview
 
 This Jupyter notebook, titled "GFD Turnout Analysis", appears to be a comprehensive analysis related to turnout data. The specific focus or objective of the analysis is not explicitly mentioned in the notebook.
 
-##Key Features
+## Key Features
 
 Data Analysis and Visualization: The notebook includes data processing, analysis, and visualization. It likely covers trends, patterns, or insights related to turnout data.
+
 Statistical Modeling: There is evidence of statistical modeling, which may be used for predictions or deeper insights.
 
-##Libraries Used
+## Libraries Used
 pandas: For data manipulation and analysis.
 numpy: For numerical operations.
 matplotlib.pyplot and seaborn: For data visualization.
 statsmodels.api: For statistical models.
 
-##Data Source
+## Data Source
 The analysis is based on a dataset named Turnout_study_2013-23.csv.
 
-##Getting Started
+## Getting Started
 
-###To run this notebook:
+### To run this notebook:
 
 Ensure you have Jupyter Notebook or JupyterLab installed.
 
@@ -30,6 +30,6 @@ Download the dataset Turnout_study_2013-23.csv and ensure it's in the correct pa
 
 Open the notebook and run the cells in sequence.
 
-##Additional Information
+## Additional Information
 
 The notebook does not include explicit sections for introduction, conclusion, or key findings. It is recommended to review the entire notebook for a complete understanding of the analysis.
